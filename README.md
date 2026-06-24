@@ -1,5 +1,23 @@
 # Terceros — Sistema de Gestión de Pagos a Proveedores
 
+## Descripción
+
+Aplicación web desarrollada para la administración de pagos a proveedores (terceros) por parte de una facultad. Permite gestionar facultades, proveedores, facturas y pagos mediante interfaces CRUD, con autenticación de usuarios y control de acceso.
+
+Trabajo práctico final de **Programación III** — **UTN · FRP (Facultad Regional Paraná)**.
+
+### Alumnos
+
+- **Vinzon, Eric Alan**
+- **Almarante, Manuel**
+
+### Docentes
+
+- **Zapata Icart, Ernesto A.**
+- **Carpio, Mariano**
+- **Schönals-Fischer, Rodolfo**
+
+
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -12,11 +30,7 @@
 
 </div>
 
-## Descripción
 
-Aplicación web desarrollada para la administración de pagos a proveedores (terceros) por parte de una facultad. Permite gestionar facultades, proveedores, facturas y pagos mediante interfaces CRUD, con autenticación de usuarios y control de acceso.
-
-Trabajo práctico final de **Programación III** — **UTN · FRP (Facultad Regional Paraná)**.
 
 ## Consigna
 
@@ -167,16 +181,3 @@ spring.jpa.hibernate.ddl-auto=update
 
 Inicia la aplicación en `http://localhost:8080` y abre el navegador automáticamente.
 
-
-## Autores
-
-### Desarrolladores
-
-- **Vinzon, Eric Alan**
-- **Almarante, Manuel**
-
-### Docentes
-
-- **Zapata Icart, Ernesto A.
-- **Carpio, Mariano**
-- **Schönals-Fischer, Rodolfo**
